@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T15:47:38.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="BAbN5YpecwExTmPwjwAD" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T15:55:10.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="fWK_8Pl3fZS2GHVg-t9n" version="15.9.1" type="github">
   <diagram id="IsX-ca7briTGJr2a4FPF" name="Page-1">
     <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -230,7 +230,10 @@
           <mxGeometry x="400" y="375" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="6GS9RnuVQp1nDECI6Flo-81" value="cgroup" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.policy_2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="500" width="50" height="45" as="geometry" />
+          <mxGeometry x="20" y="490" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="6GS9RnuVQp1nDECI6Flo-82" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.end_to_end_encryption;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="200" width="44.8" height="44.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
