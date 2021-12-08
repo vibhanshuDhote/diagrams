@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T08:43:44.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="xsQ2jiH8yAR9nBKzLidD" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T08:48:03.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="dHrldLrkHLoJk6fgPjkb" version="15.9.1" type="github">
   <diagram id="IsX-ca7briTGJr2a4FPF" name="Page-1">
     <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,16 +25,16 @@
         <mxCell id="6GS9RnuVQp1nDECI6Flo-31" value="DataBase&lt;br&gt;Manager" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="-160" y="130" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6GS9RnuVQp1nDECI6Flo-32" value="" style="endArrow=classic;html=1;curved=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6GS9RnuVQp1nDECI6Flo-28" target="6GS9RnuVQp1nDECI6Flo-25">
+        <mxCell id="6GS9RnuVQp1nDECI6Flo-32" value="Sent BLE Payload" style="endArrow=classic;html=1;curved=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6GS9RnuVQp1nDECI6Flo-28" target="6GS9RnuVQp1nDECI6Flo-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="333" as="sourcePoint" />
             <mxPoint x="400" y="325" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="335" />
+              <mxPoint x="420" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6GS9RnuVQp1nDECI6Flo-33" value="" style="endArrow=classic;html=1;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6GS9RnuVQp1nDECI6Flo-25" target="6GS9RnuVQp1nDECI6Flo-28">
+        <mxCell id="6GS9RnuVQp1nDECI6Flo-33" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Received BLE Payload&lt;/span&gt;" style="endArrow=classic;html=1;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6GS9RnuVQp1nDECI6Flo-25" target="6GS9RnuVQp1nDECI6Flo-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="375" as="sourcePoint" />
             <mxPoint x="400" y="325" as="targetPoint" />
@@ -110,15 +110,26 @@
           <mxGeometry x="-70" y="550" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6GS9RnuVQp1nDECI6Flo-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.6;exitY=-0.08;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="6GS9RnuVQp1nDECI6Flo-46" target="6GS9RnuVQp1nDECI6Flo-28">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="0.0664" y="-39" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="425" as="sourcePoint" />
             <mxPoint x="310" y="375" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6GS9RnuVQp1nDECI6Flo-57" value="Retrieve&amp;nbsp;&lt;br&gt;keys" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6GS9RnuVQp1nDECI6Flo-48">
+          <mxGeometry x="0.248" y="-1" relative="1" as="geometry">
+            <mxPoint x="28" y="22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6GS9RnuVQp1nDECI6Flo-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6GS9RnuVQp1nDECI6Flo-28" target="6GS9RnuVQp1nDECI6Flo-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="405" as="sourcePoint" />
             <mxPoint x="400" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6GS9RnuVQp1nDECI6Flo-56" value="Store/update&lt;br&gt;keys" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6GS9RnuVQp1nDECI6Flo-49">
+          <mxGeometry x="0.1731" y="-1" relative="1" as="geometry">
+            <mxPoint x="-35" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6GS9RnuVQp1nDECI6Flo-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6GS9RnuVQp1nDECI6Flo-29" target="6GS9RnuVQp1nDECI6Flo-47">
@@ -140,7 +151,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6GS9RnuVQp1nDECI6Flo-55" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;dashed=1;strokeColor=#FF3333;strokeWidth=2;fillColor=none;fontColor=#FF3333;align=left;" vertex="1" parent="1">
-          <mxGeometry x="421" y="175" width="20" height="400" as="geometry" />
+          <mxGeometry x="430" y="130" width="5" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
