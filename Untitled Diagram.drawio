@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T15:55:10.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="fWK_8Pl3fZS2GHVg-t9n" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T16:34:54.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Hs0QayJAGU149kUd9eBQ" version="15.9.1" type="github">
   <diagram id="IsX-ca7briTGJr2a4FPF" name="Page-1">
     <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -234,6 +234,12 @@
         </mxCell>
         <mxCell id="6GS9RnuVQp1nDECI6Flo-82" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.end_to_end_encryption;" vertex="1" parent="1">
           <mxGeometry x="-170" y="200" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+        <mxCell id="6GS9RnuVQp1nDECI6Flo-83" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essential-pack-3/24/81.input-128.png" vertex="1" parent="1">
+          <mxGeometry x="-570" y="635" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6GS9RnuVQp1nDECI6Flo-84" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="710" width="27" height="35.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
