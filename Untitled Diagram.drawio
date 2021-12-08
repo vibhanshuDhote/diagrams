@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T14:35:30.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="k59xcH-79Q9QGriuVMic" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T14:45:12.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="v37HCsn65WBo18KRSnKz" version="15.9.1" type="github">
   <diagram id="IsX-ca7briTGJr2a4FPF" name="Page-1">
     <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -207,6 +207,18 @@
         </mxCell>
         <mxCell id="6GS9RnuVQp1nDECI6Flo-70" value="Data Flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6GS9RnuVQp1nDECI6Flo-71">
           <mxGeometry x="317.5" y="82.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6GS9RnuVQp1nDECI6Flo-72" value="MAC Policy" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.policy_configuration;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="6GS9RnuVQp1nDECI6Flo-73" value="MAC Policy" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.policy_configuration;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="6GS9RnuVQp1nDECI6Flo-74" value="Sign" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sign_up;" vertex="1" parent="1">
+          <mxGeometry x="120" y="604.5" width="31" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6GS9RnuVQp1nDECI6Flo-75" value="Sign" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sign_up;" vertex="1" parent="1">
+          <mxGeometry x="514.5" y="604.5" width="31" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
